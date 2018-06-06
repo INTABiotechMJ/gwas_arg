@@ -1,0 +1,24 @@
+chr - chr1A chr1A 0 594102056 green
+chr - chr1B chr1B 0 689851870 green
+chr - chr1D chr1D 0 495453186 green
+chr - chr2A chr2A 0 780798557 green
+chr - chr2B chr2B 0 801256715 green
+chr - chr2D chr2D 0 651852609 green
+chr - chr3A chr3A 0 750843639 green
+chr - chr3B chr3B 0 830829764 green
+chr - chr3D chr3D 0 651852609 green
+chr - chr4A chr4A 0 744588157 green
+chr - chr4B chr4B 0 673617499 green
+chr - chr4D chr4D 0 509857067 green
+chr - chr5A chr5A 0 709773743 green
+chr - chr5B chr5B 0 713149757 green
+chr - chr5D chr5D 0 566080677 green
+chr - chr6A chr6A 0 618079260 green
+chr - chr6B chr6B 0 720988478 green
+chr - chr6D chr6D 0 473592718 green
+chr - chr7A chr7A 0 736706236 green
+chr - chr7B chr7B 0 750620385 green
+chr - chr7D chr7D 0 638686055 green
+
+band chr1B b1 b1 0 2300000 grey
+band chr1B b0 b0 2300001 689851870 white
